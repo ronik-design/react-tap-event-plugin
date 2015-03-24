@@ -19,9 +19,6 @@
     "300ms",
     "react-tap-event-plugin"
   ],
-  "peerDependencies": {
-    "react": "~0.12"
-  },
   "bugs": "https://github.com/zilverline/react-tap-event-plugin/issues",
   "licenses": [
     {
